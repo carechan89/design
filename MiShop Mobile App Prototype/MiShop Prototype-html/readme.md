@@ -1,3 +1,5 @@
+#MiShop Prototype
+
 This is a mobile app prototype built with Proto.io mobile app prototyping tool.
 
 To run, download all files and open the frame.html file.
