@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>Adidas</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="stroked" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Care" sketch:type="MSLayerGroup" transform="translate(-238.000000, -602.000000)" stroke="#587180" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <g id="Adidas" transform="translate(239.000000, 622.000000)" sketch:type="MSShapeGroup">
+                <path d="M1.96896848,5.70727482 C1.96896848,5.70727482 9.716824,7.27463763 14.8839916,5.70727486 C19.4046971,4.33600416 21.2829193,-0.224335146 23.0994667,0.118962884 C27.6333345,0.975790476 30.1717992,6.90633129 34.0530609,8.20367442 C41.66517,10.7480835 54.1964591,11.64676 54.1964591,11.64676 L55.9575972,13.4244828 C60.5688964,18.0792069 59.0154403,22.3399918 52.4850425,22.8882284 C52.4850425,22.8882284 46.3460564,23.607362 36.565451,23.8311175 C36.3561247,23.8359064 34.6926598,20.7868165 34.4824699,20.7920359 C24.4513191,21.04113 0.933878271,19.5351149 0.933878271,19.5351149 L1.96896848,5.70727482 Z" id="Rectangle-1356"></path>
+                <path d="M27.4412735,4.46775666 L23.1518703,8.09408053" id="Path-2586"></path>
+                <path d="M29.6447016,7.28091859 L25.3552984,10.9072425" id="Path-2586"></path>
+                <path d="M1.23328996,18.2824435 L1.84750255,22.1515582 L36.4982365,23.0759769" id="Path-2588"></path>
+                <path d="M19.9316987,14.13665 L17.4055716,15.2696242 L7.30585171,10.9072425" id="Path-2589"></path>
+            </g>
+        </g>
+    </g>
+</svg>

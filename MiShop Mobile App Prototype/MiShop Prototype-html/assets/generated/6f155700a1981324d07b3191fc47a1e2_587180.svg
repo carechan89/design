@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>Dress</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="stroked" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Care" sketch:type="MSLayerGroup" transform="translate(2.000000, -482.000000)" stroke="#587180" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <g id="Dress" transform="translate(11.000000, 485.000000)" sketch:type="MSShapeGroup">
+                <path d="M2.37016261,33.0759959 C3.27029694,24.7497533 10.5840477,19.6079691 18.5,21.5827365 L18.5,21.5827365 C18.2805846,21.5827365 18.5,21.5827365 18.5,21.5827365 C26.5081289,19.6040458 33.7290105,24.7433474 34.6298374,33.0759959 L37,55 L0,55 L2.37016261,33.0759959 Z" id="Rectangle-1334"></path>
+                <path d="M6,3 C6,3 14.6666667,0.809767008 18.5,0.809767008 C22.3333333,0.809767008 31,3 31,3 L26,23 L11,23 L6,3 Z" id="Rectangle-1335"></path>
+                <path d="M17.9772628,22.4991975 C17.9772628,22.4991975 13.649874,23.52952 11.78192,26.4595964 C9.91396597,29.3896728 9.32248477,32.0705056 9.32248477,32.0705056" id="Path-2558"></path>
+                <path d="M27.9772628,22.4991975 C27.9772628,22.4991975 23.649874,23.52952 21.78192,26.4595964 C19.913966,29.3896728 19.3224848,32.0705056 19.3224848,32.0705056" id="Path-2559" transform="translate(23.649874, 27.284852) scale(-1, 1) translate(-23.649874, -27.284852) "></path>
+                <path d="M18.1396944,34.2608012 L18.1396944,47.0082014" id="Path-2602"></path>
+            </g>
+        </g>
+    </g>
+</svg>
